@@ -1,4 +1,7 @@
 # Style_Transformer
+## Paper
+Perceptual Losses for Real-Time Style Transfer
+and Super-Resolution: https://arxiv.org/pdf/1603.08155.pdf
 ## Train model
 > bash train.sh
 ## Test model
