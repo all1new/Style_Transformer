@@ -10,8 +10,10 @@ you need to create a dir of save image data for the trained model and create a d
 ## Test model
 > bash test.sh
 ## data
->- datas
->--train2014
+-- datas
+
+---train2014
+
 数据加载链接:https://cocodataset.org/#download;
 ![image](https://user-images.githubusercontent.com/72143034/178271903-4a9f7824-107c-47b6-b574-c9c4a09918f1.png)
 ## Reference
